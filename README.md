@@ -3,7 +3,7 @@
 ### **A Tribute to Nature & Rare Plants**  
 Welcome to **Nature's Love**—a website dedicated to showcasing the beauty of nature through stunning pictures and research on rare, extinct, and valuable plants.  
 
-🌍 **Live Website:** [Visit)  
+🌍 **Live Website:** [  https://sarika234234.github.io/Nature-s_love/index.html 
 
 ---
 
